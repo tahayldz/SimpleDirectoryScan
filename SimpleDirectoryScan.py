@@ -47,4 +47,4 @@ else:
 	try:
 		Fuzz(args.u, args.w)
 	except KeyboardInterrupt:
-		print("by")
+		print("\nby")
